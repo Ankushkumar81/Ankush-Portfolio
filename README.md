@@ -6,7 +6,7 @@ A modern and responsive personal portfolio website showcasing my projects, techn
 
 ## 🌐 Live Demo
 
-https://github.com/Ankushkumar81/Ankush-Portfolio
+https://ankushkumar81.github.io/Ankush-Portfolio/
 
 ---
 
